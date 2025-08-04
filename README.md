@@ -28,10 +28,15 @@
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (Mongoose ODM)
 
----
-
 
 ---
+
+## 🔧 Setup & Installation
+
+1️⃣ **Clone the repository**
+```bash
+git clone https://github.com/your-username/stream-hive.git
+cd stream-hive
 
 
 
