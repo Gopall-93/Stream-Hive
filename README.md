@@ -37,6 +37,11 @@
 ```bash
 git clone https://github.com/your-username/stream-hive.git
 cd stream-hive
-
-
+```
+---
+```ini
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret
+```
 
