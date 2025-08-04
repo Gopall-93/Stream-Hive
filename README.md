@@ -39,7 +39,7 @@ git clone https://github.com/your-username/stream-hive.git
 cd stream-hive
 ```
 ---
-2️⃣ **Create a .env file **
+2️⃣ **Create a .env file**
 ```ini
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
