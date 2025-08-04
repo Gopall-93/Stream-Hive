@@ -24,12 +24,14 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React, Axios, React Router
+- **Frontend**: React, Axios, TanStack
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (Mongoose ODM)
-- **Testing**: Jest, Supertest (for backend unit and integration tests)
 
 ---
 
-## 📂 Project Structure
+
+---
+
+
 
